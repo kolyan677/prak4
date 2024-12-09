@@ -1,0 +1,228 @@
+{
+  "instruction_5": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 200
+  },
+  "instruction_6": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 3,
+    "C": 10
+  },
+  "instruction_7": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 3
+  },
+  "instruction_10": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 201
+  },
+  "instruction_11": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 3,
+    "C": 20
+  },
+  "instruction_12": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 3
+  },
+  "instruction_15": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 202
+  },
+  "instruction_16": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 3,
+    "C": 30
+  },
+  "instruction_17": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 3
+  },
+  "instruction_20": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 203
+  },
+  "instruction_21": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 3,
+    "C": 40
+  },
+  "instruction_22": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 3
+  },
+  "instruction_25": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 204
+  },
+  "instruction_26": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 3,
+    "C": 50
+  },
+  "instruction_27": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 3
+  },
+  "instruction_30": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 5,
+    "C": 171
+  },
+  "instruction_35": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 200
+  },
+  "instruction_36": {
+    "mnemonic": "READ_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 3
+  },
+  "instruction_37": {
+    "mnemonic": "OR",
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 4
+  },
+  "instruction_38": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 4
+  },
+  "instruction_41": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 201
+  },
+  "instruction_42": {
+    "mnemonic": "READ_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 3
+  },
+  "instruction_43": {
+    "mnemonic": "OR",
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 4
+  },
+  "instruction_44": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 4
+  },
+  "instruction_47": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 202
+  },
+  "instruction_48": {
+    "mnemonic": "READ_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 3
+  },
+  "instruction_49": {
+    "mnemonic": "OR",
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 4
+  },
+  "instruction_50": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 4
+  },
+  "instruction_53": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 203
+  },
+  "instruction_54": {
+    "mnemonic": "READ_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 3
+  },
+  "instruction_55": {
+    "mnemonic": "OR",
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 4
+  },
+  "instruction_56": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 4
+  },
+  "instruction_59": {
+    "mnemonic": "LOAD_CONST",
+    "A": 0,
+    "B": 2,
+    "C": 204
+  },
+  "instruction_60": {
+    "mnemonic": "READ_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 0,
+    "D": 3
+  },
+  "instruction_61": {
+    "mnemonic": "OR",
+    "A": 0,
+    "B": 3,
+    "C": 5,
+    "D": 4
+  },
+  "instruction_62": {
+    "mnemonic": "WRITE_MEM",
+    "A": 0,
+    "B": 2,
+    "C": 4
+  }
+}
